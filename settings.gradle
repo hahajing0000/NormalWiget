@@ -1,0 +1,4 @@
+
+rootProject.name = "Wiget"
+include ':app'
+include ':NormalWiget'
